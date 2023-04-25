@@ -2,7 +2,7 @@
 
 I'm a Software & Web Developer by passion! 👨‍💻
 
-- 🧐 I'm interested in Security & Blockchain technology.
+- 🧐 I'm interested in Security, AI & Blockchain technology.
 - 🤓 I'm currently learning Solidity & Spring Boot.
 - 💼 I'm currently working on a litte private project.
 - 👀 I'm searching for people to collaborate!
